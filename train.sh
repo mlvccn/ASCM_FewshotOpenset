@@ -1,0 +1,18 @@
+python main.py  --gpu 0 \
+                --max_epoch 100 \
+                --attention \
+                --energy \
+                --energy_loss \
+                --open_loss \
+                --lr 0.0001 \
+                --energy_method sum \
+                --pixel_wise \
+                --distance pixel_sim \
+                --dataset MiniImageNet \
+                --shot 1 \
+                --new_benchmark all \
+                --query 5 \
+                --eval_query 5 \
+                --method SFCM \
+                --lambda_ 1 \
+                --p 5
