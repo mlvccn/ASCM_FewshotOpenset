@@ -95,13 +95,13 @@ Qualitative comparison between the baseline and our method(ASCM) on Mini-ImageNe
 If you find this repo useful, please cite the following paper.
 
 ```
-@article{li-ASCM,
-  author    = {},
-  title     = {},
-  journal   = {},
-  volume    = {},
+@article{li-pr2026-ascm,
+  author    = {Ping Li and Jiajun Chen and Lijie Shang and Chenhao Ping},
+  title     = {Adaptive saliency based contextual metric learning for few-shot open-set recognition},
+  journal   = {Pattern Recognition (PR)},
+  volume    = {in press},
   pages     = {},
-  year      = {2025}
+  year      = {2026}
 }
 ```
 
